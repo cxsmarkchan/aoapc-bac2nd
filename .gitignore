@@ -1,0 +1,4 @@
+chap*/template.cpp
+*.in
+*.out
+.DS_Store
